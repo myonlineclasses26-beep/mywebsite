@@ -1,0 +1,2 @@
+# mywebsite
+teachmehow to code
